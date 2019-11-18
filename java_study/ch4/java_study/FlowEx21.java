@@ -6,6 +6,6 @@ public class FlowEx21 {
 		while(i>=0) {
 			System.out.println(i--);
 		}
-		System.out.println("");
+//		System.out.println("");
 	}
 }
