@@ -16,6 +16,7 @@ class ParameterTest3 {
 	static void change(int[] x) {
 		x[0] = 1000;
 		System.out.println("change() : x = "+x[0]);
+		//System.out.println("");
 	}
 
 }

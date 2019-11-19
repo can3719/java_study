@@ -12,7 +12,8 @@ class MyMathTest {
 		System.out.println("add(5L, 3L) = "+result1);
 		System.out.println("subtract(5L, 3L) = "+result2);
 		System.out.println("multiply(5L, 3L) = "+result3);
-		System.out.println("divide(5L, 3L) = "+result4);
+		System.out.println("divide(5L, 3L) = "+result4); 
+		System.out.println("");
 	}
 	
 }
