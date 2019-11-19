@@ -17,6 +17,7 @@ class ParameterTest2 {
 	static void change(Data d) {
 		d.x=1000;
 		System.out.println("change() : x = "+d.x);
+		//sdlfjlsdfjlsd
 	}
 
 }
