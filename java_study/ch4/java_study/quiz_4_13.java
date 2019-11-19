@@ -5,7 +5,7 @@ public class quiz_4_13 {
 	public static void main(String[] args)
 	{
 		String value="12x34";
-		char ch=' ';
+//		char ch=' ';
 		boolean isNumber=true;
 		
 		//반복문과 charAt(int i)를 이용해서 문자열의 문자를 하나씩 읽어서 검사한다.
