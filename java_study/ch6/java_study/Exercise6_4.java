@@ -17,7 +17,7 @@ class Exercise6_4 {
 	}
 
 }
-
+/*
 class Student {
 	
 	String name;
@@ -33,6 +33,8 @@ class Student {
 	
 	float getAverage() {
 //		return (int) (getTotal()/3f*10+0.5f)/10f;
+		return (int) ((kor+eng+math)/3);
 	}
 	
 }
+*/
