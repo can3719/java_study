@@ -11,6 +11,6 @@ public class ExceptionEx20 {
 	}
 	
 	static void method1() throws Exception {
-		throw new Exception();
+		throw new Exception(); 
 	}
 }
